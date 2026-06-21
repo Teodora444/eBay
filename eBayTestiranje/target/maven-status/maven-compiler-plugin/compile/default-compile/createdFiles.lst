@@ -1,0 +1,8 @@
+pages\EbayHomePage.class
+pages\EbayElectronicsPage.class
+pages\EbayCategoryPage.class
+pages\EbayLoginPage.class
+pages\EbayResultsPage.class
+constants\Constants.class
+locators\Locators.class
+pages\EbayDetailPage.class
